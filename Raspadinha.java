@@ -27,7 +27,7 @@ public class Raspadinha {
             }
 
             // Distribuição dos prêmios
-            int[] indicesPremios = {0, 1, 2, 3, 4, 5, 6}; // Índices fixos para prêmios específicos
+            int[] indicesPremios = {0, 1, 2, 3, 4, 5, 6}; 
             opcoes[indicesPremios[0]] = "10x o valor apostado";
             opcoes[indicesPremios[1]] = "5x o valor apostado";
             opcoes[indicesPremios[2]] = "Dobro do valor apostado";
